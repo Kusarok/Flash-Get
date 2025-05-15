@@ -1,3 +1,4 @@
+![screenshots](https://github.com/user-attachments/assets/81078326-e62f-4271-965b-851072172df7)
 # FlashGet Download Manager | فلش گت دانلود منیجر
 
 <div dir="rtl">
