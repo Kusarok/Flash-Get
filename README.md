@@ -25,7 +25,7 @@
 
 ۱. این مخزن را کلون کنید:
 ```
-git clone https://github.com/username/flashget.git
+git clone https://github.com/Kusarok/flashget.git
 cd flashget
 ```
 
@@ -86,7 +86,7 @@ FlashGet is a modern and efficient download manager developed in Python using Py
 
 1. Clone this repository:
 ```
-git clone https://github.com/username/flashget.git
+git clone https://github.com/Kusarok/flashget.git
 cd flashget
 ```
 
